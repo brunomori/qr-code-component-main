@@ -45,10 +45,15 @@ img{
 }
 
 .attribution a {
-    color: hsl(228, 45%, 44%);
+    color: rgba(228, 45%, 44%);
 }
 
 
 footer{
     padding: 2%;
+    font-size: 28px;
+    font-family: Verdana;
+    text-decoration: none;
 }
+
+
